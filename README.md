@@ -3,7 +3,7 @@
 ### Simple webapp to check your 2016 Hacktoberfest progress
 
 ## Requirements
-1. node 6.7
+1. node 6.7 (https://nodejs.org/docs/v0.6.7/#download)
 
 ## Install
 1. Clone this repo
